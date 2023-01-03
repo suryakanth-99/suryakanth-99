@@ -1,6 +1,6 @@
 - 👋 Hi, I’m suryakanth
 - 👀 I’m interested in FullStack Webdevelopment
-- 🌱 I’m currently learning frontend framework
+- 🌱 I’m currently frontend developer with react
 - 💞️ I’m looking to collaborate on fullstack development
 - 📫 Reach me at suryakanthreddysanduri1999@gmail.com
 
