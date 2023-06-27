@@ -2,7 +2,7 @@
 - 👀 I’m interested in FullStack Webdevelopment
 - 🌱 I’m currently frontend developer with react
 - 💞️ I’m looking to collaborate on fullstack development
-- 📫 Reach me at suryakanthreddysanduri1999@gmail.com
+- 📫 Reach me at suri.nagi99@gmail.com
 
 
 <!---
